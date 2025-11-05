@@ -40,7 +40,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Trakkr.ai](https://trakkr.ai)** – Free beta doing daily prompt generation & tracking across the five biggest LLMs; 60-second set-up.  
 - **[What AI Knows About You](https://waikay.io)** – Audits the facts, sentiment and hallucinations AI engines present about your brand; alerts for reputation risks.  
 - **[xfunnel.ai](https://xfunnel.ai)** – Maps the conversion journey *inside* LLM answers: see citations, missing FAQs and optimisation ideas to nudge users to your site.  
-
+- **[GrowthOS](https://growth-os.co/)** – Growth OS is the world’s first autonomous growth platform that turns AI search insights into measurable, repeatable revenue. We are developing a new data-driven operating model to drive growth.
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
