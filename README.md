@@ -6,8 +6,9 @@ Here's a list of tools that can help you track how well your company/offering is
 These can help you ride the AI wave to success rather than drown in it.
 
 
-> **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you commit. 
+> **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you commit.
 
+- **[AutoGEO](https://github.com/cxcscmu/AutoGEO)** - An automated framework that learns what generative search engines prefer and rewrites content accordingly. It achieves up to 50% improvement in generative search visibility while maintaining engine utility. 1-minute setup for API version with no additional service fees.
 - **[AiCarma](https://aicarma.com)** – Daily *Visibility Score* and weekly email reports showing how Google AI Overviews, ChatGPT & Perplexity talk about your brand; 5-minute setup and flat $29 / mo after a 14-day trial.
 - **[AI Monitor](https://getaimonitor.com/)** – AI Monitor is the world’s first [open-source]([url](https://github.com/aio-guru/ai-monitor-first-open-source-free-ai-search-optimization-aio-answer-engine-optimization-aeo-tool/tree/main)) tool to track brand mentions in AI answers. See how ChatGPT, Google AI Overview, and Perplexity talk about you—and how you stack up against competitors.
 - **[AI Rank Tracker](https://airank.dejan.ai)** – DejanSEO’s experimental tool mining language-association graphs to show which entities LLMs most connect to your brand.
