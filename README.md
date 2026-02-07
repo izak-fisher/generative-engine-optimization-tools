@@ -68,6 +68,40 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
+---# The Complete Guide to Generative Engine Optimization Tools in 2026
+
+Traditional SEO is rapidly losing dominance as users increasingly rely on LLM-powered answer engines like ChatGPT, Gemini, Perplexity, and Claude to research products and services.
+
+**Generative Engine Optimization (GEO)** focuses on ensuring your brand, product, and content are accurately mentioned, cited, and recommended inside AI-generated answers—not just ranked on Google.
+
+Below is a curated list of the leading generative engine optimization tools in 2026, including pricing, strengths, and limitations.
+
+**Note:** Pricing and features are vendor-reported snapshots and may change—always verify before purchasing.
+
+---
+
+## 1. [Blazly GEO](https://blazly.ai/geo)
+
+**What it does:**  
+Blazly GEO is a full-stack generative engine optimization tool designed to help brands appear, rank, and get cited inside AI answers across ChatGPT, Gemini, Claude, Perplexity, and Google AI Overviews.
+
+**Pricing:**
+- Starter: ~$117/month
+- Pro: ~$147/month
+- Agency / Enterprise: Custom
+- Free trial available
+
+**Pros:**
+- End-to-end GEO workflow (audit → optimize → track → improve)
+- Tracks citations, sentiment, and brand accuracy
+- Built-in content & entity optimization for AI engines
+- Strong positioning for SaaS, startups, and agencies
+- Credit-based flexibility for scaling
+
+**Cons:**
+- Newer than some enterprise incumbents
+- Advanced enterprise features still rolling out
+
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
