@@ -68,6 +68,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
+- **[Rank4AI](https://rank4ai.co.uk)** – AI search visibility agency using a Five Signal Model framework for generative engine optimization across ChatGPT, Claude, Gemini, Perplexity and Google AI Overviews.
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
