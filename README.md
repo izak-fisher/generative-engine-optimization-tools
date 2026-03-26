@@ -23,6 +23,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[BrandLight.ai](https://brandlight.ai/solutions)** – Tracks, analyses and *reshapes* the stories AI engines tell about you, backed by influence-source scoring.
 - **[BrightEdge](https://www.brightedge.com/)** – Enterprise SEO platform with AI search visibility features.
 - **[ChatFeatured](https://chatfeatured.com/?ref=taaft&utm_source=taaft&utm_medium=referral)** – AI search analytics and GEO optimization platform.
+- **[Cited By AI®](https://citedbyai.info)** – UK-based ASEO platform scoring content at block level using the Citation Probability Score® (CPS®) framework. Predicts citation probability across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews across five pillars: Content Structure, Fact Density, Answer Structure, Self-Containment, and Freshness Signals. Free CPS® Lite checker via MCP — no sign-up required.
 - **[Cognizo](https://cognizo.ai)** – Combines prompt-level analytics, sentiment & customer-journey gap detection in one “AI Visibility CRM”.
 - **[Evertune](https://evertune.ai)** – “AI Brand Index” plus benchmarking of which publishers mould LLM output; actionable distribution briefs.
 - **[Exanimo.ai](https://exanimo.ai)** – White-label GEO platform for agencies; multi-client dashboards, SOC-2, margin reporting.
