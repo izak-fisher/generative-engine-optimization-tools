@@ -54,6 +54,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
 - **[Search Visibility](https://search-visibility.ai)** – Tracks brand mentions across ChatGPT, Gemini, Claude, and more AI models.
+- **[Surfeo](https://surfeo.ai)** – AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude simultaneously. Includes AI content generation, website audits, and visibility scoring. Free tier; paid plans from €39 / mo.
 - **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
