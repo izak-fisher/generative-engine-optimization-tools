@@ -59,6 +59,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
+- **[toprank](https://github.com/nowork-studio/toprank)** – Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Generates JSON-LD schema markup (FAQ, HowTo, Article, Product, LocalBusiness), rewrites meta tags, and ships fixes directly to WordPress/Strapi/Contentful/Ghost. Also includes an E-E-A-T content writer. 107 stars on GitHub.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
 - **[Trakkr.ai](https://trakkr.ai)** – Free beta doing daily prompt generation & tracking across the five biggest LLMs; 60-second set-up.
 - **[Visalytica](https://www.visalytica.com)** – AI visibility and optimization tool for monitoring brand presence in ChatGPT, Claude, Gemini & Perplexity.
