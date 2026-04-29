@@ -44,6 +44,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
+- **[Parse](https://parse.gl/)** – AI brand visibility analytics tracking ChatGPT and Google AI Overviews; Parse Score benchmarks, citation diagnostics, and 577K+ brands tracked.
 - **[Peec AI](https://peec.ai)** – Marketing-team console benchmarking ChatGPT, Claude, Gemini & Perplexity visibility across countries; includes competitor leaderboards and scheduled PDF exports.
 - **[Peekaboo](https://aipeekaboo.com)** – Competitor-insights engine showing which rivals capture your traffic in AI chat and by how much; geo drill-downs included.
 - **[Profound](https://tryprofound.com)** – Enterprise “Answer-Engine Insights” showing where, how and *why* LLMs mention your brand; API + Slack alerts. Lite starts at $499 / mo.
