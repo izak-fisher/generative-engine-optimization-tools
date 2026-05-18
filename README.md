@@ -24,6 +24,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[BrightEdge](https://www.brightedge.com/)** – Enterprise SEO platform with AI search visibility features.
 - **[ChatFeatured](https://chatfeatured.com/?ref=taaft&utm_source=taaft&utm_medium=referral)** – AI search analytics and GEO optimization platform.
 - **[Cognizo](https://cognizo.ai)** – Combines prompt-level analytics, sentiment & customer-journey gap detection in one “AI Visibility CRM”.
+- **[Elmo](https://www.elmohq.com/)** – Open-source AI visibility platform that tracks brand mentions and citations across ChatGPT, Google, and all other AI models.
 - **[Evertune](https://evertune.ai)** – “AI Brand Index” plus benchmarking of which publishers mould LLM output; actionable distribution briefs.
 - **[Exanimo.ai](https://exanimo.ai)** – White-label GEO platform for agencies; multi-client dashboards, SOC-2, margin reporting.
 - **[FalconRank.ai](https://falconrank.ai)** – Instant rankings for Google AI Overviews, ChatGPT, Gemini & more; rolls everything into a single “AI Visibility Score”.
