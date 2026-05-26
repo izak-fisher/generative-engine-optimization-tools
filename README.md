@@ -8,9 +8,10 @@ These can help you ride the AI wave to success rather than drown in it.
 
 > **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you commit.
 
-- **[AiCarma](https://aicarma.com)** – Daily *Visibility Score* and weekly email reports showing how Google AI Overviews, ChatGPT & Perplexity talk about your brand; 5-minute setup and flat $29 / mo after a 14-day trial.
 - **[AI Monitor](https://getaimonitor.com/)** – AI Monitor is the world’s first [open-source]([url](https://github.com/aio-guru/ai-monitor-first-open-source-free-ai-search-optimization-aio-answer-engine-optimization-aeo-tool/tree/main)) tool to track brand mentions in AI answers. See how ChatGPT, Google AI Overview, and Perplexity talk about you—and how you stack up against competitors.
 - **[AI Rank Tracker](https://airank.dejan.ai)** – DejanSEO’s experimental tool mining language-association graphs to show which entities LLMs most connect to your brand.
+- **[AiCarma](https://aicarma.com)** – Daily *Visibility Score* and weekly email reports showing how Google AI Overviews, ChatGPT & Perplexity talk about your brand; 5-minute setup and flat $29 / mo after a 14-day trial.
+- **[aio-surfaces](https://github.com/Janady13/aio-surfaces)** – Open-source MIT Python toolkit. Generates the four AI-citation surfaces (`llms.txt`, `aeo.json`, `entity.json`, `brand.json`) from a single typed site config. Used in production on [thatdevpro.com](https://www.thatdevpro.com).
 - **[Am I on AI?](https://amionai.com)** – Simple checker that shows how often ChatGPT recommends your business and offers priority fixes; weekly trend emails.
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.
 - **[AthenaHQ](https://athenahq.ai)** – Analysed 3M+ AI responses; delivers free visibility report and a GEO playbook focused on mid-market SaaS.
@@ -57,6 +58,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
+- **[seo-sidecar](https://github.com/Janady13/seo-sidecar)** – Open-source FastAPI + nginx SSI sidecar that injects fresh Schema.org JSON-LD into nginx-served sites without redeploys. Pure Python + Go, MIT licensed.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
