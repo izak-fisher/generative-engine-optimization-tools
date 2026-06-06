@@ -35,6 +35,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[GrowthOS](https://growth-os.co/)** – Growth OS is the world’s first autonomous growth platform that turns AI search insights into measurable, repeatable revenue. We are developing a new data-driven operating model to drive growth.
 - **[Gumshoe AI](https://www.linkedin.com/company/gumshoe-ai)** – Visibility plus “outrank playbook”: surfaces the exact citations competitors own, then suggests takeover tactics.
 - **[Heeb.ai](https://heeb.ai)** – LLM Mentions API offering structured SEO intelligence, sentiment detection, citation insights, and visibility scoring.
+- **[Is My Brand in AI](https://ismybrandinai.com)** – Free, no-signup GEO utilities: an AI-bot/robots checker (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) and an llms.txt generator, plus honest, sourced GEO guides. (Brand-visibility checker in early access.)
 - **[Keyword Grid](https://www.keywordgrid.com/?ref=taaft&utm_source=taaft&utm_medium=referral#features)** – AI-powered SEO optimization and semantic analyzer.
 - **[Knowatoa](https://knowatoa.com)** – One-click scan to see whether (and how) key AI models answer the questions that drive your sales funnel; flags business-critical gaps.
 - **[LightSite AI](https://www.lightsite.ai/?ref=taaft&utm_source=taaft&utm_medium=referral)** – Generative search optimization platform to improve AI search rank.
