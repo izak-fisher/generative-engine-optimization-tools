@@ -15,6 +15,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.
 - **[AthenaHQ](https://athenahq.ai)** – Analysed 3M+ AI responses; delivers free visibility report and a GEO playbook focused on mid-market SaaS.
 - **[Attensira](https://attensira.com)** – AI search visibility tracking and optimization platform; monitors prompts, content creation, and competitor comparison.
+- **[auto-geo](https://github.com/shadowresearch/auto-geo)** – Open-source CLI that audits pages for AI-citation readiness and measures whether ChatGPT, Claude, Gemini, Perplexity, and Grok cite a domain.
 - **[AutoGEO](https://github.com/cxcscmu/AutoGEO)** – An automated framework that learns what generative search engines prefer and rewrites content accordingly. It achieves up to 50% improvement in generative search visibility while maintaining engine utility. 1-minute setup for API version with no additional service fees.
 - **[Avenue Z — AIO](https://avenuez.com/services/ai-optimization/)** – Consultancy service to lift AI visibility; includes free share-of-voice template and guided roadmap.
 - **[Bluefish AI](https://bluefishai.com)** – Unified visibility + brand-safety console; pairs monitoring with consumer-engagement tools (chat widgets, FAQs).
