@@ -68,6 +68,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
+- - **[GEO-DAM](https://analiz.yapayzekageo.com/)** – AI visibility intelligence platform and DAM-6 framework for measuring brand recognition, recommendation rates, citation coverage, entity authority, and competitive positioning across ChatGPT, Claude, Gemini, Perplexity, and other AI answer engines.
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
