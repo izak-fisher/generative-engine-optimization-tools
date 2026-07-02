@@ -43,6 +43,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
+- **[open-geo](https://github.com/Pupok462/open-geo)** – Open-source GEO tracker (a Claude Code skill) that reads the *rendered* AI answer a logged-in user sees, not an API or a scraped DOM. Reports an honest funnel (sources, citations, sentiment) across Google AI Overview, ChatGPT, Claude, Gemini and Yandex Alice. MIT, runs locally.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
 - **[Peec AI](https://peec.ai)** – Marketing-team console benchmarking ChatGPT, Claude, Gemini & Perplexity visibility across countries; includes competitor leaderboards and scheduled PDF exports.
 - **[Peekaboo](https://aipeekaboo.com)** – Competitor-insights engine showing which rivals capture your traffic in AI chat and by how much; geo drill-downs included.
