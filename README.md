@@ -12,6 +12,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[AI Monitor](https://getaimonitor.com/)** – AI Monitor is the world’s first [open-source]([url](https://github.com/aio-guru/ai-monitor-first-open-source-free-ai-search-optimization-aio-answer-engine-optimization-aeo-tool/tree/main)) tool to track brand mentions in AI answers. See how ChatGPT, Google AI Overview, and Perplexity talk about you—and how you stack up against competitors.
 - **[AI Rank Tracker](https://airank.dejan.ai)** – DejanSEO’s experimental tool mining language-association graphs to show which entities LLMs most connect to your brand.
 - **[Am I on AI?](https://amionai.com)** – Simple checker that shows how often ChatGPT recommends your business and offers priority fixes; weekly trend emails.
+- **[AnswerLens](https://app.sfdj.net/)** – Free public-evidence scan for B2B SaaS sites, with `llms.txt`, pricing, comparison, proof checks, a sample report, and a one-time paid report path.
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.
 - **[AthenaHQ](https://athenahq.ai)** – Analysed 3M+ AI responses; delivers free visibility report and a GEO playbook focused on mid-market SaaS.
 - **[Attensira](https://attensira.com)** – AI search visibility tracking and optimization platform; monitors prompts, content creation, and competitor comparison.
