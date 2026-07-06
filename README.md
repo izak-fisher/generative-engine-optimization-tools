@@ -38,6 +38,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Keyword Grid](https://www.keywordgrid.com/?ref=taaft&utm_source=taaft&utm_medium=referral#features)** – AI-powered SEO optimization and semantic analyzer.
 - **[Knowatoa](https://knowatoa.com)** – One-click scan to see whether (and how) key AI models answer the questions that drive your sales funnel; flags business-critical gaps.
 - **[LightSite AI](https://www.lightsite.ai/?ref=taaft&utm_source=taaft&utm_medium=referral)** – Generative search optimization platform to improve AI search rank.
+- **[LLM Pulse](https://llmpulse.ai)** – AI search and GEO platform for tracking brand mentions, citations, sentiment, share of voice, AI traffic, and recommendations across major AI models.
 - **[LLMO Metrics](https://llmometrics.com)** – Scores visibility, then uses AI to prioritise the tweaks most likely to boost mentions in ChatGPT, Gemini & Copilot.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
