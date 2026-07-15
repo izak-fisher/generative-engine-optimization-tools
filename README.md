@@ -65,6 +65,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[What AI Knows About You](https://waikay.io)** – Audits the facts, sentiment and hallucinations AI engines present about your brand; alerts for reputation risks.
 - **[Writesonic](https://writesonic.com/)** – AI search visibility tracking and optimization platform.
 - **[xfunnel.ai](https://xfunnel.ai)** – Maps the conversion journey *inside* LLM answers: see citations, missing FAQs and optimisation ideas to nudge users to your site.
+- **[Xinyuanjing GEO Audit](https://shikaijieskj.github.io/xinyuanjing-geo-audit/)** – Privacy-safe client-side GEO audit explainer and evidence-first manual audit service with a fictional sample, public scope, and fixed CNY pricing.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
