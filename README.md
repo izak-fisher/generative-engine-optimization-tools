@@ -55,6 +55,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
 - **[Search Visibility](https://search-visibility.ai)** – Tracks brand mentions across ChatGPT, Gemini, Claude, and more AI models.
 - **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
+- **[SeenForAI](https://seenfor.ai)** – Daily AI-visibility tracking across 7 engines—ChatGPT, Claude, Gemini, Perplexity plus Doubao, Kimi & DeepSeek; Share of Voice, sentiment, citations and multi-model hallucination checks. Free scan, paid plans from $49 / mo.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
