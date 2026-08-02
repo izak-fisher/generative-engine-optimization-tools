@@ -28,6 +28,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Exanimo.ai](https://exanimo.ai)** – White-label GEO platform for agencies; multi-client dashboards, SOC-2, margin reporting.
 - **[FalconRank.ai](https://falconrank.ai)** – Instant rankings for Google AI Overviews, ChatGPT, Gemini & more; rolls everything into a single “AI Visibility Score”.
 - **[Firecrawl](https://www.firecrawl.dev/)** – Web data API for AI use cases and GEO monitoring workflows.
+- **[FixAEO](https://fixaeo.com/)** – AI-search visibility platform tracking brand mentions, ranks, and citations across nine engines, with free scans and a developer API.
 - **[Gauge](https://www.withgauge.com/)** – AI visibility platform and analytics for Generative Engine Optimization.
 - **[GenRank](https://genrank.io)** – Track, analyze, and optimize brand mentions and citations in ChatGPT, including Web Search.
 - **[Geometrika](https://geometrika.dev/en)** – AI Search & LLM Search Analytics, All-in-One tool for Generative Engine Optimization. 4 metrics, 7 main systems to track. Competitor back-to-back analysis, Keywords & Prompt AI Sugesstions, Fully customizable scheduling tasks. No need to subscribe, can just buy credits and go. 3 optional subscription types: €80 / €500 or fully dedicated Enterprise level. Geometrika's Knowledge Base: [click](https://dashboard.geometrika.dev/en/kb/introduction)
