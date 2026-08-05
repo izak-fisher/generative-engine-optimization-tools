@@ -24,6 +24,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[BrightEdge](https://www.brightedge.com/)** – Enterprise SEO platform with AI search visibility features.
 - **[ChatFeatured](https://chatfeatured.com/?ref=taaft&utm_source=taaft&utm_medium=referral)** – AI search analytics and GEO optimization platform.
 - **[Cognizo](https://cognizo.ai)** – Combines prompt-level analytics, sentiment & customer-journey gap detection in one “AI Visibility CRM”.
+- **[E-GEO](https://github.com/mverab/eGEOagents)** – Open-source GEO & AEO toolkit: Python CLI, Claude Code skills, and MCP server that analyze, score, and rewrite content to rank in ChatGPT, Perplexity, Gemini & Claude; ships a reproducible evaluation harness and a continuous geo-loop mode. Based on peer-reviewed research (arXiv:2511.20867).
 - **[Evertune](https://evertune.ai)** – “AI Brand Index” plus benchmarking of which publishers mould LLM output; actionable distribution briefs.
 - **[Exanimo.ai](https://exanimo.ai)** – White-label GEO platform for agencies; multi-client dashboards, SOC-2, margin reporting.
 - **[FalconRank.ai](https://falconrank.ai)** – Instant rankings for Google AI Overviews, ChatGPT, Gemini & more; rolls everything into a single “AI Visibility Score”.
