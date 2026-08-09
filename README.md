@@ -31,6 +31,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Gauge](https://www.withgauge.com/)** – AI visibility platform and analytics for Generative Engine Optimization.
 - **[GenRank](https://genrank.io)** – Track, analyze, and optimize brand mentions and citations in ChatGPT, including Web Search.
 - **[Geometrika](https://geometrika.dev/en)** – AI Search & LLM Search Analytics, All-in-One tool for Generative Engine Optimization. 4 metrics, 7 main systems to track. Competitor back-to-back analysis, Keywords & Prompt AI Sugesstions, Fully customizable scheduling tasks. No need to subscribe, can just buy credits and go. 3 optional subscription types: €80 / €500 or fully dedicated Enterprise level. Geometrika's Knowledge Base: [click](https://dashboard.geometrika.dev/en/kb/introduction)
+- **[GEO-Score](https://geo-score.online)** – Free checker that scores any URL (0-100) on how well it's optimized to be cited by ChatGPT, Perplexity, Claude and Google AI Overviews. No signup required.
 - **[Goodie AI](https://higoodie.com)** – All-in-one AEO suite (monitor → analyse → optimise → create) aimed at consumer-brand marketers.
 - **[GrowthOS](https://growth-os.co/)** – Growth OS is the world’s first autonomous growth platform that turns AI search insights into measurable, repeatable revenue. We are developing a new data-driven operating model to drive growth.
 - **[Gumshoe AI](https://www.linkedin.com/company/gumshoe-ai)** – Visibility plus “outrank playbook”: surfaces the exact citations competitors own, then suggests takeover tactics.
