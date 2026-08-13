@@ -57,6 +57,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
+- **[seo-geo-skill](https://github.com/asale-ai/seo-geo-skill)** – Open-source (MIT) agent skills that audit a site for GEO and classic SEO from inside a coding agent; AI-crawler reachability, passage-level citability scoring, llms.txt and schema generation. Single Rust binary, no Python; most checks run with no account or API key.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
