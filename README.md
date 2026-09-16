@@ -9,7 +9,6 @@ These can help you ride the AI wave to success rather than drown in it.
 > **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you commit.
 
 - **[AiCarma](https://aicarma.com)** – Daily *Visibility Score* and weekly email reports showing how Google AI Overviews, ChatGPT & Perplexity talk about your brand; 5-minute setup and flat $29 / mo after a 14-day trial.
-- **[AI Monitor](https://getaimonitor.com/)** – AI Monitor is the world’s first [open-source]([url](https://github.com/aio-guru/ai-monitor-first-open-source-free-ai-search-optimization-aio-answer-engine-optimization-aeo-tool/tree/main)) tool to track brand mentions in AI answers. See how ChatGPT, Google AI Overview, and Perplexity talk about you—and how you stack up against competitors.
 - **[AI Rank Tracker](https://airank.dejan.ai)** – DejanSEO’s experimental tool mining language-association graphs to show which entities LLMs most connect to your brand.
 - **[Am I on AI?](https://amionai.com)** – Simple checker that shows how often ChatGPT recommends your business and offers priority fixes; weekly trend emails.
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.
@@ -31,6 +30,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Gauge](https://www.withgauge.com/)** – AI visibility platform and analytics for Generative Engine Optimization.
 - **[GenRank](https://genrank.io)** – Track, analyze, and optimize brand mentions and citations in ChatGPT, including Web Search.
 - **[Geometrika](https://geometrika.dev/en)** – AI Search & LLM Search Analytics, All-in-One tool for Generative Engine Optimization. 4 metrics, 7 main systems to track. Competitor back-to-back analysis, Keywords & Prompt AI Sugesstions, Fully customizable scheduling tasks. No need to subscribe, can just buy credits and go. 3 optional subscription types: €80 / €500 or fully dedicated Enterprise level. Geometrika's Knowledge Base: [click](https://dashboard.geometrika.dev/en/kb/introduction)
+- **[GetCito](https://getcito.com/)** – GetCito (formerly AI Monitor) is the world’s first [open-source]([url](https://github.com/ai-search-guru/getcito-worlds-first-open-source-aio-aeo-or-geo-tool)) tool to track brand mentions in AI answers. See how ChatGPT, Google AI Overview, Claude, Gemini, Perplexity, and others talk about you—and how you stack up against competitors, showing you the brand mentions, citations, and the share of voice in the answers.
 - **[Goodie AI](https://higoodie.com)** – All-in-one AEO suite (monitor → analyse → optimise → create) aimed at consumer-brand marketers.
 - **[GrowthOS](https://growth-os.co/)** – Growth OS is the world’s first autonomous growth platform that turns AI search insights into measurable, repeatable revenue. We are developing a new data-driven operating model to drive growth.
 - **[Gumshoe AI](https://www.linkedin.com/company/gumshoe-ai)** – Visibility plus “outrank playbook”: surfaces the exact citations competitors own, then suggests takeover tactics.
