@@ -58,6 +58,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
+- **[Spegla](https://getspegla.com)** – Asks ChatGPT, Claude, Gemini and Perplexity the same ten unbranded buying questions for a category and scores where your brand lands in each answer, with the competitors named instead and the sources cited. Free check without an account; 15 European languages, with the questions written in the market's own language. Paid plans from EUR 29 / mo.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
 - **[Trakkr.ai](https://trakkr.ai)** – Free beta doing daily prompt generation & tracking across the five biggest LLMs; 60-second set-up.
