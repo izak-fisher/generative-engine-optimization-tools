@@ -50,6 +50,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Promptmonitor](https://www.promptmonitor.io/?ref=taaft&utm_source=taaft&utm_medium=referral)** – GEO monitoring with prompt testing and answer visibility tracking.
 - **[Promptwatch](https://aitools.inc/tools/promptwatch)** – Tracks brand mentions, pinpoints “answer gaps” and suggests new content topics to fill them.
 - **[Quno.ai](https://quno.ai)** – Brand-visibility scorecard, prompt-library tester and AI-SEO writer rolled into one; free tier available.
+- **[RankRoot](https://getrankroot.com)** – Free 22-check audit of whether ChatGPT, Perplexity, Claude and AI agents can crawl, read and cite a site (robots.txt bot rules, llms.txt, schema, server-rendered content), with generated fix files; also free robots.txt/llms.txt tools and an AI mention check. Pro from $19 / mo.
 - **[Rankscale.ai](https://rankscale.ai)** – Generative-Engine-Optimisation suite with rank tracking, competitive gaps and a handy AEO/GEO tactics blog.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
