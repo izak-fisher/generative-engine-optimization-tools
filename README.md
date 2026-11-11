@@ -46,6 +46,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
 - **[Peec AI](https://peec.ai)** – Marketing-team console benchmarking ChatGPT, Claude, Gemini & Perplexity visibility across countries; includes competitor leaderboards and scheduled PDF exports.
 - **[Peekaboo](https://aipeekaboo.com)** – Competitor-insights engine showing which rivals capture your traffic in AI chat and by how much; geo drill-downs included.
+- **[Pineprompt](https://pineprompt.com)** – Daily AI search visibility tracking across ChatGPT, Gemini, Claude, Google AI Overviews and AI Mode; reports mentions, position, sentiment, cited sources and share of voice, with an MCP server; from $99/mo.
 - **[Profound](https://tryprofound.com)** – Enterprise “Answer-Engine Insights” showing where, how and *why* LLMs mention your brand; API + Slack alerts. Lite starts at $499 / mo.
 - **[Promptmonitor](https://www.promptmonitor.io/?ref=taaft&utm_source=taaft&utm_medium=referral)** – GEO monitoring with prompt testing and answer visibility tracking.
 - **[Promptwatch](https://aitools.inc/tools/promptwatch)** – Tracks brand mentions, pinpoints “answer gaps” and suggests new content topics to fill them.
