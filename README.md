@@ -78,6 +78,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Quno.ai](https://quno.ai)** – Brand-visibility scorecard, prompt-library tester and AI-SEO writer rolled into one; free tier available.
 - **[RankRoot](https://getrankroot.com)** – Free 22-check audit of whether ChatGPT, Perplexity, Claude and AI agents can crawl, read and cite a site (robots.txt bot rules, llms.txt, schema, server-rendered content), with generated fix files; also free robots.txt/llms.txt tools and an AI mention check. Pro from $19 / mo.
 - **[Rankscale.ai](https://rankscale.ai)** – Generative-Engine-Optimisation suite with rank tracking, competitive gaps and a handy AEO/GEO tactics blog.
+- **[Recommd](https://recommd.com)** – Checks whether ChatGPT, Perplexity & Google AI Overviews recommend a given local business or a competitor, and explains why; returns a 0-100 visibility score and a plain-English fix plan. Free basic check, no signup.
 - **[Revolead](https://revolead.ai)** – Done-for-you GEO and B2B lead generation: maps buyer-intent prompts, builds the pages that win answers in ChatGPT, Perplexity, Gemini & Google AI Overviews, then ties AI visibility back to qualified enquiries.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
