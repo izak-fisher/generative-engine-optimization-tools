@@ -96,6 +96,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
+- **[Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker)** – Free, no-signup checker: enter a business and its market and see whether ChatGPT and Perplexity cite it for buyer questions, which competitors they cite instead, and which sources feed the answers. Pairs with a free Prompt Panel Generator for monthly re-measurement.
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
