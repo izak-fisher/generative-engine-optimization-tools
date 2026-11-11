@@ -54,6 +54,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[LLMO Metrics](https://llmometrics.com)** – Scores visibility, then uses AI to prioritise the tweaks most likely to boost mentions in ChatGPT, Gemini & Copilot.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
+- **[Merlonix](https://merlonix.com/ai-answer-presence/)** – Monitors whether ChatGPT, Perplexity & other answer engines cite your brand and how they describe you; includes a free AI answer-presence checker plus an agent-readiness checker (can AI crawlers reach and correctly read your site). Free tier + hosted MCP server.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
 - **[Mydentify — Can AI Bots Read My Site?](https://mydentify.com/tools/ai-crawler-access-checker)** – Free checker that tests whether AI crawlers can reach a site’s pages and explains robots.txt, headers, and page-level access signals.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
