@@ -8,6 +8,7 @@ These can help you ride the AI wave to success rather than drown in it.
 
 > **Quick note** – Pricing and features are vendor-reported snapshots; always double-check before you commit.
 
+- **[AEO Readiness Report (Nyxel)](https://aeo.nyxelai.com/report)** – Free instant AI-search readiness score for any URL: audits structured data (JSON-LD), headings, title/meta, FAQ coverage and `llms.txt`, then lists the exact gaps blocking AI-answer citations. Open-source checker ([aeo-check](https://github.com/russcrts/aeo-check)) plus an optional one-click Fix Pack.
 - **[AiCarma](https://aicarma.com)** – Daily *Visibility Score* and weekly email reports showing how Google AI Overviews, ChatGPT & Perplexity talk about your brand; 5-minute setup and flat $29 / mo after a 14-day trial.
 - **[AI Crawler Bots](https://github.com/TryGeoSuite/ai-crawler-bots)** – Open-source, zero-dependency CLI and GitHub Action that audits your robots.txt against a curated list of AI crawler user-agents (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Bytespider), computes an AI-visibility score, tests live bot reachability, and reads access logs to confirm which AI bots actually crawled.
 - **[AI Monitor](https://getaimonitor.com/)** – AI Monitor is the world’s first [open-source]([url](https://github.com/aio-guru/ai-monitor-first-open-source-free-ai-search-optimization-aio-answer-engine-optimization-aeo-tool/tree/main)) tool to track brand mentions in AI answers. See how ChatGPT, Google AI Overview, and Perplexity talk about you—and how you stack up against competitors.
