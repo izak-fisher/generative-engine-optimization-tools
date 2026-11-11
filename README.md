@@ -64,6 +64,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
 - **[Trakkr.ai](https://trakkr.ai)** – Free beta doing daily prompt generation & tracking across the five biggest LLMs; 60-second set-up.
+- **[Unspooly](https://unspooly.ai)** – AI visibility platform that tracks brand mentions, citations, share of voice and sentiment in ChatGPT, Gemini & Perplexity daily, with Copilot, Google AI Overviews & Claude as add-ons; Action Board turns citation gaps into content tasks, and agency plans include client workspaces. 14-day free trial, from $19 / mo.
 - **[Visalytica](https://www.visalytica.com)** – AI visibility and optimization tool for monitoring brand presence in ChatGPT, Claude, Gemini & Perplexity.
 - **[What AI Knows About You](https://waikay.io)** – Audits the facts, sentiment and hallucinations AI engines present about your brand; alerts for reputation risks.
 - **[Writesonic](https://writesonic.com/)** – AI search visibility tracking and optimization platform.
