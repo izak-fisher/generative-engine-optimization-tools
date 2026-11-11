@@ -34,6 +34,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Cited By AI®](https://citedbyai.info)** – UK-based ASEO platform scoring content at block level using the Citation Probability Score® (CPS®) framework. Predicts citation probability across ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews across five pillars: Content Structure, Fact Density, Answer Structure, Self-Containment, and Freshness Signals. Free CPS® Lite checker via MCP — no sign-up required.
 - **[Cognizo](https://cognizo.ai)** – Combines prompt-level analytics, sentiment & customer-journey gap detection in one “AI Visibility CRM”.
 - **[CrestGeo](https://crestgeo.com)** – Checks whether AI assistants (Doubao, DeepSeek, Kimi) mention and recommend a brand or website; AI visibility score with top issues, supports brands without a website.
+- **[Elmo](https://www.elmohq.com/)** – Open-source AI visibility platform that tracks brand mentions and citations across ChatGPT, Google, and all other AI models.
 - **[Evertune](https://evertune.ai)** – “AI Brand Index” plus benchmarking of which publishers mould LLM output; actionable distribution briefs.
 - **[Exanimo.ai](https://exanimo.ai)** – White-label GEO platform for agencies; multi-client dashboards, SOC-2, margin reporting.
 - **[FalconRank.ai](https://falconrank.ai)** – Instant rankings for Google AI Overviews, ChatGPT, Gemini & more; rolls everything into a single “AI Visibility Score”.
