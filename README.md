@@ -86,6 +86,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
 - **[toprank](https://github.com/nowork-studio/toprank)** – Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Generates JSON-LD schema markup (FAQ, HowTo, Article, Product, LocalBusiness), rewrites meta tags, and ships fixes directly to WordPress/Strapi/Contentful/Ghost. Also includes an E-E-A-T content writer. 107 stars on GitHub.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
+- **[Traclux](https://github.com/ZaneLau/traclux-probe)** – Apache-2.0, self-hosted GEO workbench for CSSM-HI probe generation, configured-model execution, and saved-answer analysis.
 - **[Trakkr.ai](https://trakkr.ai)** – Free beta doing daily prompt generation & tracking across the five biggest LLMs; 60-second set-up.
 - **[Unspooly](https://unspooly.ai)** – AI visibility platform that tracks brand mentions, citations, share of voice and sentiment in ChatGPT, Gemini & Perplexity daily, with Copilot, Google AI Overviews & Claude as add-ons; Action Board turns citation gaps into content tasks, and agency plans include client workspaces. 14-day free trial, from $19 / mo.
 - **[Visalytica](https://www.visalytica.com)** – AI visibility and optimization tool for monitoring brand presence in ChatGPT, Claude, Gemini & Perplexity.
