@@ -35,6 +35,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Exanimo.ai](https://exanimo.ai)** – White-label GEO platform for agencies; multi-client dashboards, SOC-2, margin reporting.
 - **[FalconRank.ai](https://falconrank.ai)** – Instant rankings for Google AI Overviews, ChatGPT, Gemini & more; rolls everything into a single “AI Visibility Score”.
 - **[Firecrawl](https://www.firecrawl.dev/)** – Web data API for AI use cases and GEO monitoring workflows.
+- **[FixAEO](https://fixaeo.com/)** – AI-search visibility platform tracking brand mentions, ranks, and citations across nine engines, with free scans and a developer API.
 - **[Gauge](https://www.withgauge.com/)** – AI visibility platform and analytics for Generative Engine Optimization.
 - **[GenRank](https://genrank.io)** – Track, analyze, and optimize brand mentions and citations in ChatGPT, including Web Search.
 - **[GEOScore](https://geoscoreai.com)** – AI-powered scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks including AI crawl access, structured data, llms.txt, content structure, and citation potential. Free scan available.
