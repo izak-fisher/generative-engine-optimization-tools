@@ -59,7 +59,9 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
 - **[Mydentify — Can AI Bots Read My Site?](https://mydentify.com/tools/ai-crawler-access-checker)** – Free checker that tests whether AI crawlers can reach a site’s pages and explains robots.txt, headers, and page-level access signals.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
+- **[OmniForce](https://www.omniforce.run/)** – GEO & AI-search visibility platform (open-source MCP server: [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp)).
 - **[ONEGO](https://onego.ai)** – AI visibility platform that asks ChatGPT, Gemini, Perplexity, Google AI Mode and Google AI Overviews your buyers' questions, scores your brand out of 100 (the ONE Score), shows which competitors are named instead and gives a prioritised fix list; weekly tracking. Free AI audit with no card, then from $79 / mo billed yearly.
+- **[Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker)** – Free, no-signup checker: enter a business and its market and see whether ChatGPT and Perplexity cite it for buyer questions, which competitors they cite instead, and which sources feed the answers. Pairs with a free Prompt Panel Generator for monthly re-measurement.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
 - **[Parse](https://parse.gl/)** – AI brand visibility analytics tracking ChatGPT and Google AI Overviews; Parse Score benchmarks, citation diagnostics, and 577K+ brands tracked.
 - **[Peec AI](https://peec.ai)** – Marketing-team console benchmarking ChatGPT, Claude, Gemini & Perplexity visibility across countries; includes competitor leaderboards and scheduled PDF exports.
@@ -97,8 +99,6 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Yext](https://www.yext.com/)** – Create and deliver content to any channel with AI-driven visibility.
 - **[Yutori Scouts](https://yutori.com/scouts)** – AI agents that monitor the web and track OpenAI mention sentiment and trends.
 - **[ZipTie.dev](https://ziptie.dev/)** – AI Overviews, ChatGPT and Perplexity tracker.
-- **[Orkkid AI Citation Checker](https://orkkid.com/tools/ai-citation-checker)** – Free, no-signup checker: enter a business and its market and see whether ChatGPT and Perplexity cite it for buyer questions, which competitors they cite instead, and which sources feed the answers. Pairs with a free Prompt Panel Generator for monthly re-measurement.
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
-- [OmniForce](https://www.omniforce.run/) — GEO & AI-search visibility platform (open-source MCP server: [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp)).
