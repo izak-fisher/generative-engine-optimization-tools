@@ -17,6 +17,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Am I on AI?](https://amionai.com)** – Simple checker that shows how often ChatGPT recommends your business and offers priority fixes; weekly trend emails.
 - **[AnswerLens](https://app.sfdj.net/)** – Free public-evidence scan for B2B SaaS sites, with `llms.txt`, pricing, comparison, proof checks, a sample report, and a one-time paid report path.
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.
+- **[Asked Thrice](https://askedthrice.com)** – One-time scan instead of a subscription: reads your site, asks ChatGPT, Gemini and Claude six customer questions with web search on, and returns who they recommend, every page they cited and one step for each page where you can get listed, with the raw answers as evidence. $15 per scan, $49 for five.
 - **[AthenaHQ](https://athenahq.ai)** – Analysed 3M+ AI responses; delivers free visibility report and a GEO playbook focused on mid-market SaaS.
 - **[Attensira](https://attensira.com)** – AI search visibility tracking and optimization platform; monitors prompts, content creation, and competitor comparison.
 - **[auto-geo](https://github.com/shadowresearch/auto-geo)** – Open-source CLI that audits pages for AI-citation readiness and measures whether ChatGPT, Claude, Gemini, Perplexity, and Grok cite a domain.
