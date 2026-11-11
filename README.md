@@ -73,6 +73,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Surfeo](https://surfeo.ai)** – AI-powered GEO platform for SMBs; tracks brand visibility across ChatGPT, Gemini, Perplexity & Claude simultaneously. Includes AI content generation, website audits, and visibility scoring. Free tier; paid plans from €39 / mo.
 - **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
 - **[Seerly (AIRO)](https://seerly.app/)** – AI search optimization platform.
+- **[Seeno](https://seeno.ai)** – Vertical AI-visibility platform for real estate, hotels, law firms and B2B SaaS. Tracks ChatGPT, Perplexity, Gemini, Claude and Google AI Overviews, query-based pricing from $149/mo, free audit.
 - **[Senso.ai](https://senso.ai)** – Detects content gaps and keeps your messaging consistent across AI surfaces; integrates with CMS for auto-publishing.
 - **[SEO for AI](https://getseoforai.com/)** – Free AI visibility checker plus a $197 remediation audit. Tracks ChatGPT, Perplexity, Claude, Gemini, and Google AI Overviews for small businesses.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
