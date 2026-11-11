@@ -53,6 +53,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.
+- **[Mydentify — Can AI Bots Read My Site?](https://mydentify.com/tools/ai-crawler-access-checker)** – Free checker that tests whether AI crawlers can reach a site’s pages and explains robots.txt, headers, and page-level access signals.
 - **[Nuggt](https://beta.nuggt.io/)** – SEO agency platform focused on generative search performance.
 - **[ONEGO](https://onego.ai)** – AI visibility platform that asks ChatGPT, Gemini, Perplexity, Google AI Mode and Google AI Overviews your buyers' questions, scores your brand out of 100 (the ONE Score), shows which competitors are named instead and gives a prioritised fix list; weekly tracking. Free AI audit with no card, then from $79 / mo billed yearly.
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
