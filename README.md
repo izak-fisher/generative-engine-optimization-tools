@@ -56,6 +56,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Knowatoa](https://knowatoa.com)** – One-click scan to see whether (and how) key AI models answer the questions that drive your sales funnel; flags business-critical gaps.
 - **[LightSite AI](https://www.lightsite.ai/?ref=taaft&utm_source=taaft&utm_medium=referral)** – Generative search optimization platform to improve AI search rank.
 - **[LLM Optimizer](https://llmopt.metavert.io)** – AI brand visibility tool (like SEO for LLMs, or GEO); measures composite AI Visibility Scores with per-dimension analysis across YouTube, Reddit, search, and direct LLM knowledge testing, plus prioritized optimization recommendations. MCP-native access to all reports and action items.
+- **[LLM Pulse](https://llmpulse.ai)** – All-in-one AI search platform tracking brand visibility, mentions, citations, sentiment and share of voice across ChatGPT, Perplexity, Gemini & Google AI Overviews, with AI traffic analytics and actionable recommendations.
 - **[LLMO Metrics](https://llmometrics.com)** – Scores visibility, then uses AI to prioritise the tweaks most likely to boost mentions in ChatGPT, Gemini & Copilot.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
