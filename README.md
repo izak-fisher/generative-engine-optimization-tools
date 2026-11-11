@@ -15,6 +15,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[AI Crawler Robots.txt Builder](https://ai-crawler-robots-builder.vercel.app/)** – Free, open-source, client-side robots.txt generator and checker for GPTBot, ClaudeBot, Google-Extended, PerplexityBot, and custom AI crawler tokens; runs with no login, tracking, cookies, uploads, or external scripts.
 - **[AI Rank Tracker](https://airank.dejan.ai)** – DejanSEO’s experimental tool mining language-association graphs to show which entities LLMs most connect to your brand.
 - **[AI Visibility Monitor](https://github.com/WorkSmartAI-alt/ai-visibility-monitor)** – Open-source Python toolkit for tracking ChatGPT, Claude, and Perplexity citations of a given domain. Self-hosted, MIT licensed.
+- **[Aiden](https://goaiden.ai)** – AI-powered AEO manager with 11 autonomous agents that audit your site, track citations across ChatGPT / Perplexity / Google AI Overview / Gemini / Claude, and generate schema markup + content fixes. Free AEO Health Score included.
 - **[Am I on AI?](https://amionai.com)** – Simple checker that shows how often ChatGPT recommends your business and offers priority fixes; weekly trend emails.
 - **[AnswerLens](https://app.sfdj.net/)** – Free public-evidence scan for B2B SaaS sites, with `llms.txt`, pricing, comparison, proof checks, a sample report, and a one-time paid report path.
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.
