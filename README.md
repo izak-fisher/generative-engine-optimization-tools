@@ -98,3 +98,4 @@ These can help you ride the AI wave to success rather than drown in it.
 ---
 
 _Seen something missing or out-of-date? Open a PR or file an issue—please include a public URL so we can verify and add it._
+- [OmniForce](https://www.omniforce.run/) — GEO & AI-search visibility platform (open-source MCP server: [rmb/omniforce-mcp](https://github.com/rmb/omniforce-mcp)).
