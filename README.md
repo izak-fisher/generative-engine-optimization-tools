@@ -61,6 +61,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Is My Brand in AI](https://ismybrandinai.com)** – Free, no-signup GEO utilities: an AI-bot/robots checker (GPTBot, ClaudeBot, PerplexityBot, Google-Extended) and an llms.txt generator, plus honest, sourced GEO guides. (Brand-visibility checker in early access.)
 - **[Keyword Grid](https://www.keywordgrid.com/?ref=taaft&utm_source=taaft&utm_medium=referral#features)** – AI-powered SEO optimization and semantic analyzer.
 - **[Knowatoa](https://knowatoa.com)** – One-click scan to see whether (and how) key AI models answer the questions that drive your sales funnel; flags business-critical gaps.
+- **[Lanesra AI](https://lanesra.ai)** - Analytics and optimization for AI search.
 - **[LightSite AI](https://www.lightsite.ai/?ref=taaft&utm_source=taaft&utm_medium=referral)** – Generative search optimization platform to improve AI search rank.
 - **[LLM Optimizer](https://llmopt.metavert.io)** – AI brand visibility tool (like SEO for LLMs, or GEO); measures composite AI Visibility Scores with per-dimension analysis across YouTube, Reddit, search, and direct LLM knowledge testing, plus prioritized optimization recommendations. MCP-native access to all reports and action items.
 - **[LLM Pulse](https://llmpulse.ai)** – All-in-one AI search platform tracking brand visibility, mentions, citations, sentiment and share of voice across ChatGPT, Perplexity, Gemini & Google AI Overviews, with AI traffic analytics and actionable recommendations.
