@@ -66,6 +66,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[LLM Pulse](https://llmpulse.ai)** – All-in-one AI search platform tracking brand visibility, mentions, citations, sentiment and share of voice across ChatGPT, Perplexity, Gemini & Google AI Overviews, with AI traffic analytics and actionable recommendations.
 - **[LLMO Metrics](https://llmometrics.com)** – Scores visibility, then uses AI to prioritise the tweaks most likely to boost mentions in ChatGPT, Gemini & Copilot.
 - **[LLMrefs](https://llmrefs.com)** – Generative AI search analytics tracker for brand visibility, rank, and citations across major answer engines.
+- **[Local SEO Data](https://localseodata.com/)** – Measures how often ChatGPT, Claude, Gemini and Perplexity mention or recommend a local business, alongside local rankings, Google Business Profile and review data, as an API and MCP server. 100 free credits on signup.
 - **[Lorelight](https://lorelight.ai/)** – AI visibility analytics and monitoring.
 - **[LovedByAI](https://www.lovedby.ai)** – WordPress plugin for AI search optimization; adds schema and FAQ markup, generates llms.txt, and tracks AI referral traffic from ChatGPT, Perplexity, Claude and Gemini.
 - **[Mentioned](https://mentioned.to)** – Done-for-you Reddit growth for GEO. Finds the Reddit threads ranking on Google and cited by LLMs for your keywords, places your brand in them via managed accounts, and reports share of voice vs competitors.
