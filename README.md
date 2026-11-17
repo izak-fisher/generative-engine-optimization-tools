@@ -91,6 +91,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Profound](https://tryprofound.com)** – Enterprise “Answer-Engine Insights” showing where, how and *why* LLMs mention your brand; API + Slack alerts. Lite starts at $499 / mo.
 - **[Promptmonitor](https://www.promptmonitor.io/?ref=taaft&utm_source=taaft&utm_medium=referral)** – GEO monitoring with prompt testing and answer visibility tracking.
 - **[Promptwatch](https://aitools.inc/tools/promptwatch)** – Tracks brand mentions, pinpoints “answer gaps” and suggests new content topics to fill them.
+- **[Promvia](https://promvia.app)** – Tracks whether ChatGPT, Perplexity, Claude, Gemini, Google AI Overviews and AI Mode name a brand for the questions its buyers ask, shows the sources each answer cites, and links AI-referred visits to sales. MCP server and API; English and Turkish. Free first check, paid plans from €49 / mo.
 - **[Quno.ai](https://quno.ai)** – Brand-visibility scorecard, prompt-library tester and AI-SEO writer rolled into one; free tier available.
 - **[RankRoot](https://getrankroot.com)** – Free 22-check audit of whether ChatGPT, Perplexity, Claude and AI agents can crawl, read and cite a site (robots.txt bot rules, llms.txt, schema, server-rendered content), with generated fix files; also free robots.txt/llms.txt tools and an AI mention check. Pro from $19 / mo.
 - **[Rankscale.ai](https://rankscale.ai)** – Generative-Engine-Optimisation suite with rank tracking, competitive gaps and a handy AEO/GEO tactics blog.
