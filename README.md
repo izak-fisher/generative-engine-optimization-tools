@@ -99,6 +99,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Revenue Grader](https://getrevenuegrader.com)** – Free page-level checker that scores whether ChatGPT, Claude and Perplexity would cite a URL, with nine subscores and concrete fixes; no signup for the first scan.
 - **[Revolead](https://revolead.ai)** – Done-for-you GEO and B2B lead generation: maps buyer-intent prompts, builds the pages that win answers in ChatGPT, Perplexity, Gemini & Google AI Overviews, then ties AI visibility back to qualified enquiries.
 - **[Scalenut](https://www.scalenut.com/)** – AI SEO and content suite with generative search optimization features.
+- **[SCALR Site Check](https://scalr.sg/tools/site-check/)** – Free check of whether Google and AI tools like ChatGPT, Perplexity and Claude can read a website, page by page, and what to fix first. Reads the page, robots.txt, llms.txt and a sample of sitemap pages the way a crawler does, with no JavaScript run. No account.
 - **[Scrunch AI — Insights Platform](https://scrunchai.com/platform/insights/)** – Explains how AI interprets each page, then gives step-by-step fixes to lift rankings; SOC-2 enterprise option.
 - **[Search Visibility](https://search-visibility.ai)** – Tracks brand mentions across ChatGPT, Gemini, Claude, and more AI models.
 - **[Searchify](https://searchify.ai)** – AI Visibility tracking and optimization platform built for SMBs. Pricing starts at $149/mo with optional full-service "done for you" add-ons.
