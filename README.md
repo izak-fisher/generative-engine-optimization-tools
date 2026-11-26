@@ -44,6 +44,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[FalconRank.ai](https://falconrank.ai)** – Instant rankings for Google AI Overviews, ChatGPT, Gemini & more; rolls everything into a single “AI Visibility Score”.
 - **[Firecrawl](https://www.firecrawl.dev/)** – Web data API for AI use cases and GEO monitoring workflows.
 - **[FixAEO](https://fixaeo.com/)** – AI-search visibility platform tracking brand mentions, ranks, and citations across nine engines, with free scans and a developer API.
+- **[Free GEO Audit by David Corroy](https://www.david-corroy.com/audit-geo-gratuit/)** - Free GEO and SEO audit in French: checks whether a site can be cited by ChatGPT, Perplexity and Google AI, scores it on 8 pillars and lists what to fix, with an instant result.
 - **[Gauge](https://www.withgauge.com/)** – AI visibility platform and analytics for Generative Engine Optimization.
 - **[GenRank](https://genrank.io)** – Track, analyze, and optimize brand mentions and citations in ChatGPT, including Web Search.
 - **[GEO-Score](https://geo-score.online)** – Free checker that scores any URL (0-100) on how well it's optimized to be cited by ChatGPT, Perplexity, Claude and Google AI Overviews. No signup required.
